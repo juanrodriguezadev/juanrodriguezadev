@@ -48,13 +48,6 @@
   </a>
 </p>
 
-<!-- Optional decorative skills banner -->
-<p align="center"><img src="./assets/skills.svg" width="90%" alt="Core skills chips"></p>
-
-<p align="center">
-  <img src="./assets/separator.svg" width="70%" alt="">
-</p>
-
 ---
 
 ## 💼 Experience
