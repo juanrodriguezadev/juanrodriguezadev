@@ -1,6 +1,6 @@
 <!--
   GitHub Profile · Juan Diego Rodríguez
-  Professional, clean, and visually engaging profile with custom banners and sections.
+  Professional, clean, and visually engaging profile with local SVG banners (./assets/*).
 -->
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rodriguezjuandy@gmail.com"><strong>Email</strong></a> •
-  <a href="https://www.linkedin.com/in/juanrodriguezadev/"><strong>LinkedIn</strong></a> •
+  <a href="mailto:rodriguezjuandy@gmail.com"><strong>Email</strong></a> ·
+  <a href="https://www.linkedin.com/in/juanrodriguezadev/"><strong>LinkedIn</strong></a> ·
   <a href="https://github.com/juanrodriguezadev"><strong>GitHub</strong></a>
 </p>
 
@@ -24,7 +24,8 @@
 <h3 align="center">Frontend Web Developer (Angular · React · TypeScript) — Remote Ready</h3>
 
 <p align="center">
-  I specialize in building <strong>modern, scalable, and high-performing web applications</strong> using Angular and React, with a strong focus on user experience, maintainability, and clean architecture.
+  I build <strong>modern, scalable and high-performing web apps</strong> with Angular/React, TypeScript, Tailwind and
+  Hexagonal Architecture — with a strong focus on UX, performance and maintainability.
 </p>
 
 ---
@@ -32,29 +33,23 @@
 ## 🧭 About Me
 - 🌎 Based in Colombia · Open to **remote opportunities (USD/EUR)**
 - 💻 Main stack: **Angular (v10+), React, TypeScript, JavaScript, TailwindCSS, Angular Material, Fuse**
-- 🧱 Architectures: **Hexagonal · Domain Driven Design · Clean Code**
-- ☁️ Cloud: **AWS (CloudFront, S3, EC2)** · CI/CD workflows
-- 🎨 Design/UI: **Figma, Balsamiq, Prototyping**
-- 🤝 Enthusiastic about teamwork, agile methodologies, mentoring, and developer experience
+- 🧱 Architectures: **Hexagonal · Domain-Driven Design · Clean Code**
+- ☁️ Cloud & tooling: **AWS (CloudFront, S3, EC2)**, CI/CD basics, GitHub
+- 🎨 Design/UI: **Figma, Balsamiq, rapid prototyping**
+- 🤝 I enjoy code reviews, performance tuning, DX, and mentoring
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+<!-- Reliable, clean icons (dark-mode friendly) -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,tailwind,html,css,git,github,aws,mysql,mongodb,nodejs,postman,figma&perline=8" alt="Tech icons"/>
+  </a>
 </p>
+
+<!-- Optional decorative skills banner -->
+<p align="center"><img src="./assets/skills.svg" width="90%" alt="Core skills chips"></p>
 
 <p align="center">
   <img src="./assets/separator.svg" width="70%" alt="">
@@ -62,48 +57,53 @@
 
 ---
 
-## 🚀 Experience
+## 💼 Experience
 
-- **Akorbi S.A.S (2020 – 2025)** · Frontend Web Developer  
-  Angular/React modular development, API integrations, mock creation & validation, interface optimization, unit testing.
+- **Akorbi S.A.S** — Frontend Web Developer  
+  <sub>2020 – 2025</sub>  
+  Modular development in Angular/React, API integrations, mocks & Postman validation, interface optimization, and unit testing.
 
-- **SETI S.A.S (2022 – 2024)** · Frontend Web Developer Semi Senior  
-  Angular/React with hexagonal architecture, AWS deployments, UI/UX design in Figma, CI/CD pipelines, agile teamwork.
+- **SETI S.A.S** — Frontend Web Developer (Semi-Senior)  
+  <sub>Jan 2022 – Jun 2024</sub>  
+  Angular/React with Hexagonal Architecture, AWS deployments, UI/UX design in Figma, CI/CD workflows, agile collaboration.
 
-- **Current role (2024 – Present)** · Frontend Web Developer Semi Senior  
-  Building scalable applications, implementing clean architecture, advanced Angular patterns, and UX-focused features.
+- **Current Role** — Frontend Web Developer (Semi-Senior)  
+  <sub>Jun 2024 – Present</sub>  
+  Building scalable features with Angular/React, clean architecture and UX-focused components; improving performance and DX.
+  
+> *If you’d like more details about responsibilities, results, or code samples, I can provide private demos on request.*
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Talent & Learning Platform</h3>
       <p>
-        A full-stack HRTech solution for talent and learning management, built with Angular + Hexagonal Architecture.
-        Includes courses, learning paths, organizational teams, and integrated AI chatbot.
+        HRTech solution for talent and learning management, built with <strong>Angular + Hexagonal Architecture</strong>.
+        Modules for courses, learning paths, organizational teams, and an AI-powered chatbot.
       </p>
       <ul>
-        <li>Domain / Ports / Infrastructure layered architecture</li>
-        <li>Modern UI with Tailwind + Fuse</li>
-        <li>Sections, resources with estimated time, drawers, drag & drop</li>
+        <li>Layered design: <em>domain → ports → infrastructure</em></li>
+        <li>Modern UI with Tailwind + Fuse; responsive drawers and summaries</li>
+        <li>Sections & resources with estimated time, drag & drop ordering</li>
       </ul>
-      <p><em>Private repo — demo available on request</em></p>
+      <p><em>Private repo — demo screens available on request</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>Knowledge Base Chatbot</h3>
       <p>
-        Conversational chatbot interface with memory and <strong>citation insights</strong>.  
-        Adaptive UX: expandable sources inline or via drawer depending on count.
+        Conversational interface with memory and <strong>citation insights</strong>.
+        If there are 3+ sources, a drawer opens; otherwise, sources expand inline for a clean UX.
       </p>
       <ul>
-        <li>Custom citation-viewer organism</li>
-        <li>Integration with OpenAPI backend · Multi-language support</li>
-        <li>Focus on accessibility and clean UX</li>
+        <li>Custom <code>citation-viewer</code> organism with visual mapper</li>
+        <li>OpenAPI integration · multilingual support</li>
+        <li>Accessibility and performance improvements</li>
       </ul>
-      <p><em>Private repo — demo available on request</em></p>
+      <p><em>Private repo — demo screens available on request</em></p>
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@
 
 ## 🧪 Code Sample (Angular)
 ```ts
-// Example: safe API call with RxJS, state handling & error management
+// Safe API call with RxJS, typed streams, and error handling
 loadCourses(): void {
   this.loading.set(true);
   this.courses$ = this.courseService.getCourses().pipe(
